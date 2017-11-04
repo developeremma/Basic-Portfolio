@@ -53,6 +53,7 @@ form{
 	height: 225px;
 	margin: 10px;
 	padding: 10px 0px 0px 0px;
+	
 }
 .menu{
 	float:left;
@@ -98,12 +99,11 @@ form{
 	width: 650px;
 	padding: 20px;
 	background-color: #ffffff;
-	margin: 20px 10px 10px 30px;
+	margin: 20px 10px 70px 30px;
 	display: block;
 	border: 2px solid #dddddd;
 
 }
-
 .social{
 	height: 90px;
 	width: 90px;
